@@ -1,0 +1,3 @@
+[submodule "vendor/github.com/vmware/govmomi"]
+	path = vendor/github.com/vmware/govmomi
+	url = https://github.com/vmware/govmomi
